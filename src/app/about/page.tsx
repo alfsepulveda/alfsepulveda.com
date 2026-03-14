@@ -75,7 +75,7 @@ export default function About() {
             <p>
               It started when I was a kid, and it started fast. By the time I
               was 17 I had already won the South American U18 championship in
-              the 400m hurdles — that peculiar event where you sprint a full lap
+              the 400m hurdles, that peculiar event where you sprint a full lap
               while jumping over ten obstacles placed specifically to ruin your
               day. I figured that if I was willing to do that voluntarily, I
               might as well make a career of it.
@@ -83,16 +83,16 @@ export default function About() {
             <p>
               Over the next decade I did exactly that. I competed internationally
               representing Chile, became national team captain, and chased one
-              number obsessively: the national record. I got it — 49.62 seconds,
+              number obsessively: the national record. I got it, 49.62 seconds,
               set in Cochabamba in 2018. I also reached the top 17 in the world
               ranking and collected 8 national titles along the way, which is
               either impressive or a sign I spent too much time in stadiums.
               Probably both.
             </p>
             <p>
-              In parallel — and I use that word loosely, because it was more
-              like a slow-motion juggling act — I studied Business Engineering
-              at Universidad de Chile. It took longer than the standard plan
+              In parallel, and I use that word loosely, because it was more
+              like a slowmotion juggling act, I studied Business Engineering
+              at Universidad de Chile. It took looonger than the standard plan
               suggests. Competing at the highest level internationally while
               finishing a degree is possible, I can confirm. I just
               wouldn&apos;t recommend it as a time management strategy.
