@@ -104,7 +104,7 @@ export default function About() {
               of endurance sport.
             </p>
             <p>
-              When I started my professional career data, I quickly realized technology could solve
+              When I started my professional career in data, I quickly realized technology could solve
               problems I had lived firsthand as an athlete, invisibility and lack
               of funding. That&apos;s why now I&apos;m building KeLevel: software to give athletes
               the visibility and financial tools they deserve. 
