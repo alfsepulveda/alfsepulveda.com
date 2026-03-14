@@ -78,7 +78,7 @@ const workRoles = [
   {
     company: 'KeLevel',
     title: 'Founder & Builder',
-    period: '2024 – Present',
+    period: '2026 – Present',
     href: '/professional/kelevel',
   },
   {
