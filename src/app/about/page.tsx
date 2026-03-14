@@ -106,7 +106,7 @@ export default function About() {
             <p>
               When I started my professional career data, I quickly realized technology could solve
               problems I had lived firsthand as an athlete, invisibility and lack
-              of funding. That's why now I&apos;m building KeLevel: software to give athletes
+              of funding. That&apos;s why now I&apos;m building KeLevel: software to give athletes
               the visibility and financial tools they deserve. 
               
               Turns out running
