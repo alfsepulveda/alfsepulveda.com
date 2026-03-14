@@ -8,7 +8,7 @@ import '@/styles/tailwind.css'
 export const metadata: Metadata = {
   title: {
     template: "%s - Alfredo Sepulveda",
-    default: "Alfredo Sepulveda - Data engineer, builder, and national record holder",
+    default: "Alfredo Sepulveda - Data ninja, builder, and national record holder",
   },
   description:
     "Business engineer and record-holding athlete based between Barcelona and Santiago. Building KeLevel, a platform that uses sports data to give athletes visibility and help them fund their athletic careers.",
